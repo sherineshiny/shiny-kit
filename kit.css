@@ -84,7 +84,7 @@ visibility: visible;
  width: 1000px;
  overflow: hidden;
  margin: 50px auto;
- background: white;
+ background: #2d3436;
 }
 #container h1 {
  text-align: center;
@@ -94,7 +94,7 @@ visibility: visible;
  width: 1000px;
  overflow: hidden;
  margin: 50px auto;
- background: white;
+ background: #2d3436;
 }
 .first {
  -webkit-animation: bannermove 30s linear infinite;
